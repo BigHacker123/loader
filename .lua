@@ -3,6 +3,7 @@ local Notification = loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/Iri
 
 local games = {
     [{13680982680}] = "https://raw.githubusercontent.com/BigHacker123/velocitycc2/main/strengthsimulator.lua",
+    [{13253735473}] = "https://raw.githubusercontent.com/BigHacker123/velocitycc/main/free",
     -- Games
 }
 
